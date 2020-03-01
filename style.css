@@ -1,0 +1,14 @@
+section{
+  min-height: 450px;
+}
+.jumbotron {
+  background: url('img/bg.jpg');
+  background-repeat: no-repeat;
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.about{
+  margin-top: -50px;
+}
